@@ -1,0 +1,5 @@
+{
+  "name": "Chicken & Rabbit Solver",
+  "description": "An interactive educational tool for solving the classic 'Chicken and Rabbit in the Same Cage' math problem using visualization and equations.",
+  "requestFramePermissions": []
+}
